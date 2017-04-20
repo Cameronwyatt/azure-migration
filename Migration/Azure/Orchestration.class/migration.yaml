@@ -16,5 +16,7 @@ object:
       value: v2:{Hr3RsoSXhfxR7jVdfsJwvg==}
   - conversion_host_path:
       value: c:\images
-  - execute:
+  - meth1:
+      value: "/ConfigurationManagement/AnsibleTower/Operations/StateMachines/Job/default?job_template_name=seal_vm"
+  - meth2:
       value: migration
